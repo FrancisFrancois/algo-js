@@ -1,1 +1,12 @@
-console.log("It works !!!");
+let age = 32;
+console.log(age);
+
+
+
+
+
+
+
+
+
+
